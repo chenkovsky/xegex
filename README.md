@@ -68,7 +68,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it ( https://bitbucket.org/lupeose/xegex/fork )
+1. Fork it ( https://github.com/chenkovsky/xegex/fork  )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -76,4 +76,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [chenkovsky](https://bitbucket.org/lupeose/xegex) chenkovsky - creator, maintainer
+- [chenkovsky](https://github.com/chenkovsky) chenkovsky - creator, maintainer
